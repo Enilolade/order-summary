@@ -31,13 +31,14 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
   - I struggled with achieving some of the desired font-sizes and element placement. I'm not a fan of bootstrap but I'll probabbly have to learn it to make responsiveness easier.
 
-### Screenshot
+### Screenshot!
+[Desktop Image](./images/Desktop-design-result.png)
+![Mobile](./images/Mobile-design-result.png)
+![Tablet Preview](./images/Tablet-design-result.png)
 
 ![](./screenshot.jpg)
 
-url(./images/Mobile-design-result.png)
-(./images/Tablet-design-result.png)
-(./images/Desktop-design-result.png)
+
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
